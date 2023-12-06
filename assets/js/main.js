@@ -124,7 +124,7 @@
 		$wrapper._parallax(0.925);
 
 	// Nav Panel.
-
+	//
 		// Toggle.
 			$navPanelToggle = $(
 				'<a href="#navPanel" id="navPanelToggle">Menu</a>'
